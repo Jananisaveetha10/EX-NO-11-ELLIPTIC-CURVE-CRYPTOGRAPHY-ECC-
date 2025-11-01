@@ -24,9 +24,9 @@ To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
 ## Program:
 
-NAME : NITHEESH YEGAVINTI 
+NAME : JANANI S
 
-REG NO : 212224040370
+REG NO : 212224040127
 ```
 #include <stdio.h>
 
@@ -131,11 +131,15 @@ int main() {
 }
 ```
 
+   
+
+
+
+
 
 ## Output:
 
-<img width="1675" height="987" alt="image" src="https://github.com/user-attachments/assets/158c3515-f1e7-4f54-9378-1ac0560fbd79" />
-
+<img width="1916" height="851" alt="Screenshot 2025-11-01 090330" src="https://github.com/user-attachments/assets/4eb6e0b9-6724-4722-a85a-6257683aca5f" />
 
 
 
